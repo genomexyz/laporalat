@@ -10,7 +10,7 @@ ICAOfile = 'ICAO.csv'
 mapdb = '/var/www/html/laporalat/mapdb.csv'
 serverdb = 'localhost'
 userdb = 'root'
-passdb = 'reyditya'
+passdb = 'YOUR PASS'
 dbname = 'alat'
 
 def checkavability(waktu):
