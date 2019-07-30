@@ -10,7 +10,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 ICAOfile = 'ICAO.csv'
 serverdb = 'localhost'
 userdb = 'root'
-passdb = 'reyditya'
+passdb = 'YOUR PASS'
 dbname = 'alat'
 
 #Enable logging
